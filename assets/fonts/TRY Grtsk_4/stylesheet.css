@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Giga Backslant';
+    src: url('TRYGrtsk-SemiBoldGigaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldGigaBackslant.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Mega';
+    src: url('TRYGrtsk-SemiBoldMega.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldMega.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Slant';
+    src: url('TRYGrtsk-SemiBoldSlant.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldSlant.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Mega Backslant';
+    src: url('TRYGrtsk-SemiBoldMegaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldMegaBackslant.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Giga';
+    src: url('TRYGrtsk-SemiBoldGiga.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldGiga.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Giga Slant';
+    src: url('TRYGrtsk-SemiBoldGigaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldGigaSlant.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Mega Slant';
+    src: url('TRYGrtsk-SemiBoldMegaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldMegaSlant.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk SemiBold Tera';
+    src: url('TRYGrtsk-SemiBoldTera.woff2') format('woff2'),
+        url('TRYGrtsk-SemiBoldTera.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

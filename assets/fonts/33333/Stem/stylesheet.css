@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'Stem Med';
+    src: url('Stem-Medium.woff2') format('woff2'),
+        url('Stem-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Light.woff2') format('woff2'),
+        url('Stem-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Light.woff2') format('woff2'),
+        url('Stem-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem ExtLt';
+    src: url('Stem-ExtraLight.woff2') format('woff2'),
+        url('Stem-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem ExtLt';
+    src: url('Stem-ExtraLight.woff2') format('woff2'),
+        url('Stem-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem ExtLt';
+    src: url('Stem-ExtraLight.woff2') format('woff2'),
+        url('Stem-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Bold.woff2') format('woff2'),
+        url('Stem-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Light.woff2') format('woff2'),
+        url('Stem-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Bold.woff2') format('woff2'),
+        url('Stem-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Bold.woff2') format('woff2'),
+        url('Stem-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Regular.woff2') format('woff2'),
+        url('Stem-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem Med';
+    src: url('Stem-Medium.woff2') format('woff2'),
+        url('Stem-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem SemLt';
+    src: url('Stem-SemiLight.woff2') format('woff2'),
+        url('Stem-SemiLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Regular.woff2') format('woff2'),
+        url('Stem-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem SemLt';
+    src: url('Stem-SemiLight.woff2') format('woff2'),
+        url('Stem-SemiLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem Med';
+    src: url('Stem-Medium.woff2') format('woff2'),
+        url('Stem-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Regular.woff2') format('woff2'),
+        url('Stem-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Thin.woff2') format('woff2'),
+        url('Stem-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Thin.woff2') format('woff2'),
+        url('Stem-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem SemLt';
+    src: url('Stem-SemiLight.woff2') format('woff2'),
+        url('Stem-SemiLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('Stem-Thin.woff2') format('woff2'),
+        url('Stem-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

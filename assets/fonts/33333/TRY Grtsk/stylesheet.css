@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'TRY Grtsk Backslant';
+    src: url('TRYGrtsk-Backslant.woff2') format('woff2'),
+        url('TRYGrtsk-Backslant.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Backslant';
+    src: url('TRYGrtsk-BoldBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Mega Backslant';
+    src: url('TRYGrtsk-BoldMegaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldMegaBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Giga Backslant';
+    src: url('TRYGrtsk-BoldGigaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldGigaBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk';
+    src: url('TRYGrtsk-Bold.woff2') format('woff2'),
+        url('TRYGrtsk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa Slant';
+    src: url('TRYGrtsk-BoldExaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldExaSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa';
+    src: url('TRYGrtsk-BoldExa.woff2') format('woff2'),
+        url('TRYGrtsk-BoldExa.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa Backslant';
+    src: url('TRYGrtsk-BoldExaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldExaBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Giga';
+    src: url('TRYGrtsk-BoldGiga.woff2') format('woff2'),
+        url('TRYGrtsk-BoldGiga.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Giga Slant';
+    src: url('TRYGrtsk-BoldGigaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldGigaSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa Backslant';
+    src: url('TRYGrtsk-ExaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-ExaBackslant.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Tera';
+    src: url('TRYGrtsk-BoldTera.woff2') format('woff2'),
+        url('TRYGrtsk-BoldTera.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Tera Slant';
+    src: url('TRYGrtsk-BoldTeraSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldTeraSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Mega';
+    src: url('TRYGrtsk-BoldMega.woff2') format('woff2'),
+        url('TRYGrtsk-BoldMega.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Zetta Backslant';
+    src: url('TRYGrtsk-BoldZettaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldZettaBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Tera Backslant';
+    src: url('TRYGrtsk-BoldTeraBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldTeraBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Zetta Slant';
+    src: url('TRYGrtsk-BoldZettaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldZettaSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Mega Slant';
+    src: url('TRYGrtsk-BoldMegaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldMegaSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Zetta';
+    src: url('TRYGrtsk-BoldZetta.woff2') format('woff2'),
+        url('TRYGrtsk-BoldZetta.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Slant';
+    src: url('TRYGrtsk-BoldSlant.woff2') format('woff2'),
+        url('TRYGrtsk-BoldSlant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk';
+    src: url('TRYGrtsk-ExtraLight.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Giga';
+    src: url('TRYGrtsk-ExtraLightGiga.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightGiga.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa Slant';
+    src: url('TRYGrtsk-ExaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-ExaSlant.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk Exa';
+    src: url('TRYGrtsk-Exa.woff2') format('woff2'),
+        url('TRYGrtsk-Exa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Exa';
+    src: url('TRYGrtsk-ExtraLightExa.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightExa.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Giga Backslant';
+    src: url('TRYGrtsk-ExtraLightGigaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightGigaBackslant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Backslant';
+    src: url('TRYGrtsk-ExtraLightBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightBackslant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Exa Backslant';
+    src: url('TRYGrtsk-ExtraLightExaBackslant.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightExaBackslant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Exa Slant';
+    src: url('TRYGrtsk-ExtraLightExaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightExaSlant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRY Grtsk ExtraLight Giga Slant';
+    src: url('TRYGrtsk-ExtraLightGigaSlant.woff2') format('woff2'),
+        url('TRYGrtsk-ExtraLightGigaSlant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
